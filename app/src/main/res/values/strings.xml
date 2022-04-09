@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UIWidgetTest</string>
+    <string name="Text_View_String">this is text view</string>
+</resources>
